@@ -10,7 +10,7 @@
     padding: 10px 20px;
     background-color: #E55473;
     color: white;
-    border-radius: 0px;
+    border-radius: 3px;
     border: none;
 }
 
@@ -47,8 +47,10 @@ header {
     line-height: 25px;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 90%;
 }
 
 .banner-img {
     height: 90vh;
+    width: 50%;
 }
