@@ -113,3 +113,21 @@ header {
 }
 
 /* section services */
+.services {
+    width: 80%;
+    margin: auto;
+    padding: 50px; 
+    text-align: center;
+}
+
+.services-container {
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+.services p {
+    margin-top: 10px;
+}
