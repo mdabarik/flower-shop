@@ -131,3 +131,39 @@ header {
 .services p {
     margin-top: 10px;
 }
+
+/* Hot Deal Section */
+.hot-deal {
+    background: rgba(229, 84, 115, 0.05);
+    margin: auto;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.hot-deal-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-size: 33px;
+    font-weight: 800;
+    margin-bottom: 18px;
+}
+
+.hot-deal-title span {
+    color: #E55473;
+}
+
+.hot-deal-description {
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+
+.hot-deal-details {
+    width: 50%;
+}
