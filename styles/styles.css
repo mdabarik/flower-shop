@@ -7,11 +7,12 @@
 
 /* Reused Style */
 .btn-primary {
-    padding: 10px 20px;
+    padding: 12px 25px;
     background-color: #E55473;
     color: white;
     border-radius: 3px;
     border: none;
+    font-size: 18px;
 }
 
 .btn-primary:hover {
@@ -166,4 +167,44 @@ header {
 
 .hot-deal-details {
     width: 50%;
+}
+
+/* instagram section added */
+.instagram {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+}
+
+.instagram-title {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.instagram-description {
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+}
+
+.galary {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.galary-img {
+    padding: 5px;
+    width: 290px;
+}
+
+/* Latest Deals Container */
+.latest-deal {
+    
+}
+
+.latest-deal-container {
+
 }
