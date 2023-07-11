@@ -117,7 +117,7 @@ header {
 .services {
     width: 80%;
     margin: auto;
-    padding: 50px; 
+    padding: 50px;
     text-align: center;
 }
 
@@ -266,7 +266,7 @@ footer {
     font-size: 35px;
 }
 
-.footer-container h2 > span {
+.footer-container h2>span {
     color: #E55473;
 }
 
